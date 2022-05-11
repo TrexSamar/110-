@@ -1,0 +1,5 @@
+population_mean:  3.933977711872023
+population_stdev:  0.350970118315556
+mean of sampling distribution:  3.934537
+mean of sampling distribution:  3.9336407
+standard dev of sampling distribution 0.03505724861466499
